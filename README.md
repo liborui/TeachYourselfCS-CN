@@ -2,12 +2,13 @@
 
 [![](https://img.shields.io/github/license/keithnull/TeachYourselfCS-CN)](https://github.com/keithnull/TeachYourselfCS-CN/blob/master/LICENSE)
 
-[TeachYourselfCS](https://teachyourselfcs.com/) 的中文翻译。
+在[TeachYourselfCS](https://teachyourselfcs.com/) 中文翻译版(https://github.com/keithnull/TeachYourselfCS-CN)的基础上，根据个人体验替换了一些课程，并增加了人工智能、数学基础相关的课程推荐。
 
 A Chinese translation of [TeachYourselfCS](https://teachyourselfcs.com/). 
 
 ## 导航 Navigation 
 
-*   [原网页 Original](https://teachyourselfcs.com/)
-*   [中文翻译 Chinese](TeachYourselfCS-CN.md)
-*   [英文原版 English](TeachYourselfCS.md)
+*   [我自己的TeachMyselfCS](TeachMyselfCS.md)
+*   [原版TeachYourselfCS网页 Original_TYCS](https://teachyourselfcs.com/)
+*   [中文翻译TeachYourselfCS Chinese_TYCS](TeachYourselfCS-CN.md)
+*   [英文原版TeachYourselfCS English_TYCS](TeachYourselfCS.md)
